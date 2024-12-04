@@ -38,6 +38,18 @@ A implementação de ferramentas na empresa **Abstergo Industries** tem como esp
 
 ---
 
+## Anexos  
+1. **Amazon S3 (Simple Storage Service)**
+   - Documentação: [Amazon S3](https://docs.aws.amazon.com/s3/)
+
+2. **Amazon EC2 (Amazon Elastic Compute Cloud)**
+   - Documentação: [Amazon EC2](https://docs.aws.amazon.com/ec2/)
+
+3. **Amazon CloudFront**
+   - Documentação: [AWS CloudFront](https://docs.aws.amazon.com/cloudfront/)
+
+---
+
 **Assinatura do Responsável pelo Projeto:**  
 
 **Joelson Lins** 
